@@ -1,0 +1,15 @@
+/Users/bastos/Documents/Code/C#/consoleApp/bin/Debug/net7.0/consoleApp
+/Users/bastos/Documents/Code/C#/consoleApp/bin/Debug/net7.0/consoleApp.deps.json
+/Users/bastos/Documents/Code/C#/consoleApp/bin/Debug/net7.0/consoleApp.runtimeconfig.json
+/Users/bastos/Documents/Code/C#/consoleApp/bin/Debug/net7.0/consoleApp.dll
+/Users/bastos/Documents/Code/C#/consoleApp/bin/Debug/net7.0/consoleApp.pdb
+/Users/bastos/Documents/Code/C#/consoleApp/obj/Debug/net7.0/consoleApp.csproj.AssemblyReference.cache
+/Users/bastos/Documents/Code/C#/consoleApp/obj/Debug/net7.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bastos/Documents/Code/C#/consoleApp/obj/Debug/net7.0/consoleApp.AssemblyInfoInputs.cache
+/Users/bastos/Documents/Code/C#/consoleApp/obj/Debug/net7.0/consoleApp.AssemblyInfo.cs
+/Users/bastos/Documents/Code/C#/consoleApp/obj/Debug/net7.0/consoleApp.csproj.CoreCompileInputs.cache
+/Users/bastos/Documents/Code/C#/consoleApp/obj/Debug/net7.0/consoleApp.dll
+/Users/bastos/Documents/Code/C#/consoleApp/obj/Debug/net7.0/refint/consoleApp.dll
+/Users/bastos/Documents/Code/C#/consoleApp/obj/Debug/net7.0/consoleApp.pdb
+/Users/bastos/Documents/Code/C#/consoleApp/obj/Debug/net7.0/consoleApp.genruntimeconfig.cache
+/Users/bastos/Documents/Code/C#/consoleApp/obj/Debug/net7.0/ref/consoleApp.dll
