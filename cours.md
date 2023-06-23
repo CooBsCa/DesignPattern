@@ -119,10 +119,27 @@ https://refactoring.guru/fr/design-patterns/composite/java/example
 
 ### Pattern Chaine de responsabilité
 
-TODO : Ajouter la définition
+Plusieurs classes hérite d'un même objet de base. Afin de pouvoir essayer de répondre à une problématique, les différentes classes vont se passer le relais si elle ne sont pas capable de traiter le problème. Si aucune n'est en mesure de répondre, une réponse par défaut est primordial dans cette architecture.
+
+
+Ce pattern est utilise lorsque :
+ - une chaine d'objets gere une requete selon un ordre defini de façon dynamique.
+ - Ce mecanisme doit être transparent vis-à-vis des clients de la chaine d'objets. 
 
 ![Alt text](images/image11.png)
 
 ![Alt text](images/image12.png)
 
-![Alt text](images/image13.png)
+![Alt text](images/image13.png) 
+
+### Le pattern Command
+
+https://refactoring.guru/fr/design-patterns/command
+
+### Le pattern Iterator
+
+https://refactoring.guru/fr/design-patterns/iterator
+
+![Alt text](images/image14.png)
+
+![Alt text](images/image15.png)
