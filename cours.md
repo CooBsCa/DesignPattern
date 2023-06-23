@@ -24,7 +24,7 @@ single tone -> une classe une instance
 ### Le pattern Abstract Factory
 le but de ce pattern est de permettre de fabriquer des objets regroupes en "famille" sans avoir a connaitre les classes cibles destinée à la fabrication de ces objets.
 
-![Alt text](images/image2.png) 
+![Pattern Abstract Factory](images/image2.png) 
 
 l'object cata prend en objet une instance de fabrique de Véhicule  
 
@@ -33,14 +33,14 @@ l'object cata prend en objet une instance de fabrique de Véhicule
 
 Ce pattern permet d'abstraire la construction d'objets complexes de leur implementation de sorte qu'un client puisse creer des objets complexes sans avoir a se preocuper des differences d'implementation.
 
-![Alt text](images/image3.png)  
+![Pattern Builder](images/image3.png)  
 
 ### Le pattern Factory Method
 
 introduction d'une méthode abstraite pour l'instanciation d'objets.
 En reportant l'implémentation à une sous-classe.
 
-![Alt text](images/image4.png)
+![Pattern Factory Method](images/image4.png)
 
 ### Le pattern Singleton
 
@@ -57,7 +57,7 @@ Ces derniers disposent d'une capacite de clonage.
 
 https://medium.com/elp-2018/prototype-design-pattern-3bfc9f75ba24
 
-![Alt text](images/image5.png)
+![Pattern Prototype](images/image5.png)
 
 
 
@@ -90,7 +90,7 @@ notre application souhaite ajouter dynamiquement des fonctionnalites a un objet 
 une application doit gerer des fonctionnalites qui peuvent etre retirees dynamiquement.
 l'utilisation de l'heritage n'est pas une option car la hierarchie d'objets est deja trop complexe.
 
-![Pattern Decorator](image8.png)
+![Pattern Decorator](images/image8.png)
 
 
 ### Le Pattern Bridge
@@ -100,13 +100,29 @@ le principe d'ancapsuler complètement un objet dans un autre objet
 
 https://refactoring.guru/fr/design-patterns/bridge
 
-![Alt text](images/image8.png)
+![Pattern Bridge](images/image8.png)
 
-![Alt text](images/image9.png)
+![Pattern Bridge](images/image9.png)
 
 
 ### Le pattern Composite
 
+Unifie l'interface en utilisant la composition récursive.
+
+https://refactoring.guru/fr/design-patterns/composite/java/example
+
+![Pattern Composite](images/image10.png)
+
+## Les Patterns de comportement
 
 
-![Alt text](images/image10.png)
+
+### Pattern Chaine de responsabilité
+
+TODO : Ajouter la définition
+
+![Alt text](images/image11.png)
+
+![Alt text](images/image12.png)
+
+![Alt text](images/image13.png)
