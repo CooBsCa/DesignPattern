@@ -1,0 +1,6 @@
+L'application est une concession Automobile/ Moto qui permet de générer des véhicules stockable dans une concession.
+
+
+J'ai Utilisé une Factory pour générer les voitures et Motos car cela me semblais le plus pratique.
+J'ai utilisé un pattern Bridge pour la concession afin de pouvoir stocker tout type de véhicules.
+J'ai essayé de mettre en place le pattern Médiateur pour l'affichage afin de pouvoir gérer plusieurs types d'affichages avec une même interface.
